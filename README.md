@@ -1,19 +1,14 @@
-# Sito tesi di laurea
+# Guida alle tesi di laurea
 
-Sito statico pensato per GitHub Pages, costruito a partire dal contenuto di `informazioni.docx`.
+Questo sito raccoglie in modo chiaro e sintetico le informazioni utili per studenti e studentesse interessati a svolgere una tesi di laurea nell'ambito della sociologia della comunicazione e dei media digitali.
 
-## File principali
+Al suo interno trovi:
 
-- `index.html`: homepage con i contenuti riorganizzati.
-- `styles.css`: layout, tipografia e responsive design.
-- `script.js`: menu mobile e animazioni di comparsa.
+- le principali aree tematiche entro cui sviluppare la tesi;
+- le diverse tipologie di studio possibili;
+- le indicazioni metodologiche generali;
+- la struttura richiesta per l'elaborato finale;
+- i criteri di valutazione del lavoro;
+- le istruzioni per preparare e inviare una proposta di tesi.
 
-## Pubblicazione su GitHub Pages
-
-1. Crea un nuovo repository su GitHub.
-2. Carica questi file nella root del repository.
-3. Vai su `Settings > Pages`.
-4. In `Build and deployment`, seleziona `Deploy from a branch`.
-5. Scegli il branch principale e la cartella `/root`.
-
-GitHub Pages pubblicherà automaticamente il sito statico.
+L'obiettivo del sito e aiutare chi intende proporre una tesi a orientarsi meglio prima di contattare il docente, così da arrivare con un'idea piu chiara del tema, dell'impostazione della ricerca e della fattibilita del progetto.
