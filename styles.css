@@ -391,6 +391,18 @@ h2 {
   color: var(--primary);
 }
 
+.reference-example {
+  margin: 12px 0 0;
+  padding: 16px 18px;
+  white-space: pre-wrap;
+  border-radius: 16px;
+  background: rgba(35, 68, 60, 0.08);
+  border: 1px solid var(--line);
+  color: var(--text);
+  font-family: "Manrope", sans-serif;
+  line-height: 1.7;
+}
+
 .study-index {
   display: grid;
   place-items: center;
