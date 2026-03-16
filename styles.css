@@ -264,6 +264,49 @@ h2 {
   align-items: start;
 }
 
+.matrix-intro p:first-child {
+  margin-top: 0;
+}
+
+.matrix-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.matrix-card h3 {
+  margin-bottom: 18px;
+}
+
+.matrix-wrap {
+  overflow-x: auto;
+}
+
+.matrix-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 860px;
+}
+
+.matrix-table th,
+.matrix-table td {
+  padding: 16px 14px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--line);
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.matrix-table thead th {
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+.matrix-table tbody th {
+  color: var(--text);
+  font-weight: 700;
+  min-width: 180px;
+}
+
 .study-index {
   display: grid;
   place-items: center;
