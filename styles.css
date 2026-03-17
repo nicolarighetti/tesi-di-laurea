@@ -251,14 +251,14 @@ h2 {
 .topic-index {
   display: grid;
   place-items: center;
-  width: 72px;
-  height: 72px;
+  width: 92px;
+  height: 92px;
   margin-bottom: 18px;
-  border-radius: 22px;
-  background: linear-gradient(135deg, var(--secondary), #4f7b71);
+  border-radius: 26px;
+  background: linear-gradient(135deg, var(--primary), #db8c4f);
   color: #fff;
   font-weight: 800;
-  font-size: 1.3rem;
+  font-size: 1.6rem;
 }
 
 .callout {
