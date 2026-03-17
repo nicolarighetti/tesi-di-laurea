@@ -199,6 +199,10 @@ h2 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.grid-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
 .stack {
   display: grid;
   gap: 18px;
@@ -449,7 +453,8 @@ h2 {
 
 @media (max-width: 960px) {
   .grid-2,
-  .grid-3 {
+  .grid-3,
+  .grid-4 {
     grid-template-columns: 1fr;
   }
 
